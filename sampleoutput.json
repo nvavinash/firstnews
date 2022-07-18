@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Shashank Bengali",
+    "title": "Russia-Ukraine War: Live Updates - The New York Times",
+    "description": "Ukraine’s military said Russian forces were restoring transport infrastructure in Luhansk Province, ahead of a possible push into Donetsk.",
+    "url": "https://www.nytimes.com/live/2022/07/05/world/russia-ukraine-war-news",
+    "urlToImage": "https://static01.nyt.com/images/2022/07/05/multimedia/05ukraine-briefing-carousel-02-promo/05ukraine-briefing-carousel-02-facebookJumbo.jpg",
+    "publishedAt": "2022-07-05T12:14:26Z",
+    "content": "President Volodymyr Zelensky of Ukraine speaking via video link to attendants of a conference in Lugano, Switzerland, on Monday.Credit...Fabrice Coffrini/Agence France-Presse Getty Images\r\nFor Ukrain… [+4128 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Caitlin McCabe",
+    "title": "Stock Futures Fall in Choppy Trading - WSJ - The Wall Street Journal",
+    "description": "U.S. stock futures fell in choppy trading, as investors weighed the possibility of the U.S. rolling back tariffs on China against worries about economic growth.",
+    "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-07-05-2022-11657006137",
+    "urlToImage": "https://images.wsj.net/im-576945/social",
+    "publishedAt": "2022-07-05T12:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Bank of England tells lenders to brace for economic storm - Reuters.com",
+    "description": "By Andy Bruce and Huw Jones",
+    "url": "https://www.reuters.com/world/uk/bank-england-tells-lenders-brace-economic-storm-2022-07-05/",
+    "urlToImage": "https://www.reuters.com/resizer/0JTwFzDiG3fI78noPxBYNC285TY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTXNFQBVGZI4PI637EOGRFKRYE.jpg",
+    "publishedAt": "2022-07-05T10:28:00Z",
+    "content": "By Andy Bruce and Huw Jones\r\nLONDON, July 5 (Reuters) - The Bank of England warned on Tuesday that the economic outlook for Britain and the world had darkened and told banks to ramp up capital buffer… [+2587 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Tom Warren",
+    "title": "Microsoft's new Outlook Lite for Android app is coming this month - The Verge",
+    "description": "Microsoft is readying an Outlook Lite app for Android. The smaller and faster app should be available in July.",
+    "url": "https://www.theverge.com/2022/7/5/23195031/microsoft-outlook-lite-android-app-july-release",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/xoCVczjtT4ZmUKAQuxDb1R5z3Ok=/0x173:2398x1428/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23671455/outlookmobile.jpg",
+    "publishedAt": "2022-07-05T10:26:34Z",
+    "content": "A smaller and faster Outlook mobile app is on the way\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nImage: Microsoft\r\nMicrosoft is working on a … [+1448 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Fourth of July rooftop shooter kills six in Chicago suburb - Reuters.com",
+    "description": "A gunman perched on a rooftop opened fire on families waving flags and children riding bikes at a Fourth of July parade on Monday, killing six and wounding more than 36 in the Chicago suburb of Highland Park.",
+    "url": "https://www.reuters.com/world/us/shooting-reported-july-4th-parade-route-chicago-suburb-county-sheriff-2022-07-04/",
+    "urlToImage": "https://www.reuters.com/resizer/ImghyJKUfXZBA4tmsSlwTLQyzVI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TW7XCPKCRFMCLMTA4DPW7PM3IU.jpg",
+    "publishedAt": "2022-07-05T10:12:00Z",
+    "content": "HIGHLAND PARK, Ill., July 4 (Reuters) - A gunman perched on a rooftop opened fire on families waving flags and children riding bikes at a Fourth of July parade on Monday, killing six and wounding mor… [+5521 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Beast"
+    },
+    "author": "Dan Ladden-Hall",
+    "title": "Boris Johnson DID Know About Allegations of Sex Misconduct Despite Downing Street Denials, Says Lord - The Daily Beast",
+    "description": "Claims of groping and harassment are creating yet another scandal for Britain’s Conservatives.",
+    "url": "https://www.thedailybeast.com/boris-johnson-did-know-about-allegations-of-sex-misconduct-against-chris-pincher-report",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2609,w_4638,x_0,y_89/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1657012967/GettyImages-1241642089_qghfqj",
+    "publishedAt": "2022-07-05T09:59:08Z",
+    "content": "The former head of Britains foreign office on Tuesday sensationally trashed Downing Streets official story that Boris Johnson was unaware of specific allegations of sexual wrongdoing against an ally … [+906 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Kenneth Chang",
+    "title": "Fields Medals in Mathematics Won by Four Under Age 40 - The New York Times",
+    "description": "The prize has gone to a woman for the second time in its history. One recipient didn’t start working on complex math problems until he was 23.",
+    "url": "https://www.nytimes.com/live/2022/07/05/science/fields-medal-math",
+    "urlToImage": "https://static01.nyt.com/images/2022/05/07/science/05fields-chess-image/05fields-chess-image-facebookJumbo.jpg",
+    "publishedAt": "2022-07-05T09:20:21Z",
+    "content": "Credit...Ruth Fremson/The New York Times\r\nMost top mathematicians discovered the subject when they were young, often excelling in international competitions.\r\nBy contrast, math was a weakness for Jun… [+5894 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "CAPSTONE Leaves Earth Orbit, Headed to the Moon - SciTechDaily",
+    "description": "The Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE), a small CubeSat, about the size of a microwave oven and weighing just 55 pounds (25 kg), has left low-Earth orbit and started its solo journey to the Moon. …",
+    "url": "https://scitechdaily.com/capstone-leaves-earth-orbit-headed-to-the-moon/",
+    "urlToImage": "https://scitechdaily.com/images/NASA-C.APSTONE-Mission.gif",
+    "publishedAt": "2022-07-05T09:18:15Z",
+    "content": "CAPSTONE in orbit near the Moon: Once released from Rocket Labs Photon satellite bus, CAPSTONE will use its propulsion system to travel for approximately three months before entering into orbit aroun… [+2046 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Pentaquarks: scientists find new \"exotic\" configurations of quarks - BBC",
+    "description": "They hope they will help us understand the \"strong force\" that holds the insides of atoms together.",
+    "url": "https://www.bbc.com/news/science-environment-62027238",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16A48/production/_95244729_c0119559-particle_physics_experiment_artwork-spl.jpg",
+    "publishedAt": "2022-07-05T09:13:39Z",
+    "content": "By Pallab GhoshScience correspondent\r\nScientists have found new ways in which quarks, the tiniest particles known to humankind, group together.\r\nThe new structures exist for just a hundred thousandth… [+3087 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Ken Belson",
+    "title": "Demaryius Thomas Diagnosed With C.T.E., Family Reckons With His Death - The New York Times",
+    "description": "Demaryius Thomas had C.T.E. when he died in December at 33, but the posthumous diagnosis alone does not explain what role football had in the charismatic N.F.L. star’s quick decline.",
+    "url": "https://www.nytimes.com/2022/07/05/sports/football/demaryius-thomas-cte-nfl.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/07/05/sports/05nfl-thomas1/05nfl-thomas1-facebookJumbo.jpg",
+    "publishedAt": "2022-07-05T09:00:16Z",
+    "content": "Thomas played a final, desultory season with the Jets, then went home to Georgia, his life at a crossroads. He was not under contract and was unsure about playing during the pandemic, yet he was dete… [+1072 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "Abortion fight strains Democratic alliance with Gen Z - POLITICO",
+    "description": "“There’s a fine line between the recent events pushing someone to never vote again or pushing someone to vote ... and bring friends,\" Florida Democrat Maxwell Frost said.",
+    "url": "https://www.politico.com/news/2022/07/05/abortion-fight-dems-gen-z-00043763",
+    "urlToImage": "https://static.politico.com/75/0d/208036664661b5d3afc3ad7b23f2/supreme-court-abortion-55232.jpg",
+    "publishedAt": "2022-07-05T08:30:00Z",
+    "content": "That sentiment was echoed by Rep. Alexandria Ocasio-Cortez, who tweeted that Democrats cannot make promises, hector people to vote, and then refuse to use our full power, ticking through a list of po… [+5138 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "Despite rebukes, Trump's legal brigade is thriving - POLITICO",
+    "description": "Their claims were dismissed as baseless, but many attorneys have never faced discipline and have found new business as go-to MAGA lawyers.",
+    "url": "https://www.politico.com/news/2022/07/05/trump-maga-lawyers-00043917",
+    "urlToImage": "https://static.politico.com/32/99/dfb146cc4f36ac79fa9a59fc491d/ap20324787564571.jpg",
+    "publishedAt": "2022-07-05T08:30:00Z",
+    "content": "Hallers trajectory from rebuked purveyor of baseless claims to a go-to attorney for MAGA extremists infuriates many liberal activists, including some groups who are targeting the lawyers for discipli… [+12532 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Reuters",
+    "title": "Scandinavian airline SAS files for bankruptcy as pilots strike - CNN",
+    "description": "Scandinavian airline SAS has filed for bankruptcy protection in the United States to help accelerate restructuring plans, it said on Tuesday, warning strike action by pilots had impacted its financial position and liquidity.",
+    "url": "https://www.cnn.com/2022/07/05/business/sas-scandinavian-bankruptcy/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220705033901-sas-scandinavian-bankruptcy.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-07-05T08:09:00Z",
+    "content": "Scandinavian airline SAS has filed for bankruptcy protection in the United States to help accelerate restructuring plans, it said on Tuesday, warning strike action by pilots had impacted its financia… [+2713 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "'9-1-1: Lone Star' Actor Tyler Sanders Death Treated as Apparent Drug Overdose - TMZ",
+    "description": "'9-1-1: Lone Star' actor Tyler Sanders' death is being treated as a suspected overdose.",
+    "url": "https://www.tmz.com/2022/07/05/tyler-sanders-death-dead-drug-overdose/",
+    "urlToImage": "https://imagez.tmz.com/image/ee/16by9/2022/06/28/eeb916d7ef3547a0a07a087ac61627cc_xl.jpg",
+    "publishedAt": "2022-07-05T08:00:00Z",
+    "content": "Tyler Sanders' death is being treated as a suspected overdose ... sources connected to the death investigation tell TMZ.\r\nWe're told Tyler, who had roles in big shows like \"9-1-1: Lone Star\" and \"Fea… [+995 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HuffPost"
+    },
+    "author": "Josephine Harvey",
+    "title": "Rep. Lauren Boebert's Terrible Take On Denmark Shooting Slammed As 'Deadly' Stupid - Yahoo News",
+    "description": "The U.S. has had more mass shootings in the past weekend than Denmark has had in a decade.",
+    "url": "https://www.huffpost.com/entry/lauren-boebert-denmark-shooting_n_62c3ba15e4b065b10ad87837",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/NPEJCRu6yZIn5uDzX73s7w--~B/aD02MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_huffington_post_584/22451a252d236dc4aee72cafee04a859",
+    "publishedAt": "2022-07-05T07:16:29Z",
+    "content": "Rep. Lauren Boebert (R-Colo.) seized on the recent mall shooting in Copenhagen as evidence that strict gun control laws dont work. However, she failed to point out that it was Denmarks first mass sho… [+2577 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Michael E. Miller",
+    "title": "Floods inundate Sydney region; hundreds rescued as rain continues - The Washington Post",
+    "description": "Days of torrential rain have submerged suburbs — sweeping cars off roads and engulfing bridges — as authorities warned the dangerous weather would continue.",
+    "url": "https://www.washingtonpost.com/world/2022/07/04/sydney-floods-rain-weather/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ABHTHOH4FII6ZM45OEYJC2ABJM.jpg&w=1440",
+    "publishedAt": "2022-07-05T06:36:00Z",
+    "content": "Placeholder while article actions load\r\nSYDNEY Hundreds of people have been rescued as serious floods hit the Sydney region for the fourth time in less than 18 months.\r\nDays of torrential rain have s… [+3987 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Norwegian oil and gas workers start strike, cutting output | World Business Watch | WION News - WION",
+    "description": null,
+    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFjRGZDr7K3U",
+    "urlToImage": null,
+    "publishedAt": "2022-07-05T06:03:11Z",
+    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Mark Morales, Liam Reilly, Amanda Jackson and Jessie Yeung, CNN",
+    "title": "2 law enforcement officers shot during a July Fourth festival in Philadelphia, source says - CNN",
+    "description": "Two police officers were shot during a July Fourth celebration in Philadelphia, according to city police.",
+    "url": "https://www.cnn.com/2022/07/04/us/philadelphia-july-fourth-festival-shooting/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220704193159-01-phiiladelphia-security-incident-0704-super-tease.jpg",
+    "publishedAt": "2022-07-05T06:03:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MLB.com"
+    },
+    "author": "Alyson Footer",
+    "title": "Power Rankings 2022: Yankees hold off Astros - MLB.com",
+    "description": "If the postseason began today, four of five teams from the American League East would be in.\nLet’s assume for now that the Yankees run away with the division, which looks likely, given their 13-game lead over the second-place Red Sox. That leaves Boston, Toro…",
+    "url": "https://www.mlb.com/news/mlb-power-rankings-2022-week-13",
+    "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/dewe4wypwsgx1fabsig7.jpg",
+    "publishedAt": "2022-07-05T05:21:21Z",
+    "content": "If the postseason began today, four of five teams from the American League East would be in.\r\nLets assume for now that the Yankees run away with the division, which looks likely, given their 13-game … [+3982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sports Illustrated"
+    },
+    "author": "Jelani Scott",
+    "title": "Twins Turn First 8-5 Triple Play in MLB History - Sports Illustrated",
+    "description": "White Sox manager Tony La Russa appeared to be in shock afterwards.",
+    "url": "https://www.si.com/mlb/2022/07/05/twins-first-8-5-triple-play-mlb-history-white-sox",
+    "urlToImage": "https://www.si.com/.image/t_share/MTkwNjcxNzQxODIxOTIwMzgx/screen-shot-2022-07-04-at-83816-pm-1.jpg",
+    "publishedAt": "2022-07-05T04:45:46Z",
+    "content": "Monday was anything but a routine day in the ballpark for the Twins, thanks to a one-of-a-kind triple play never before seen in MLB history.\r\nWith runners on first and second base in the bottom of th… [+1222 chars]"
+    }
+    ]
+    }
